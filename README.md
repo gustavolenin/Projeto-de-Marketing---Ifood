@@ -1,4 +1,4 @@
-# Projeto-de-Marketing-Ifood
+# iFood CRM Data Analyst Case
 
 ## Projeto em Desenvolvimento
 
