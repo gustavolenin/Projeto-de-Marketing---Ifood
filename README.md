@@ -16,4 +16,4 @@ lucro de -3.046MU. A taxa de sucesso da campanha foi de 15%.
 A equipe deve desenvolver um modelo que preveja o comportamento do cliente e aplicá-lo ao restante da base de clientes.
 Esperamos que o modelo permita que a empresa escolha os clientes com maior probabilidade de compra do *gadget* deixando de fora aqueles que têm menor probabilidade, tornando a próxima campanha altamente rentável. Além de maximizar o lucro da campanha, o CMO está interessado em identificar as características dos clientes que estão dispostos a comprar o *gadget*.
 
-**Obs: Para uma visualização otimizada do notebook, por favor, [acesse este link](https://nbviewer.org/github/gustavolenin/Projeto-de-Marketing---Ifood/blob/main/notebook/projeto_marketing.ipynb)**.
+**Obs: Para uma visualização otimizada do notebook, por favor, [acesse este link](https://nbviewer.org/github/gustavolenin/iFood-CRM-Data-Analyst-Case/blob/main/notebook/projeto_marketing.ipynb)**.
