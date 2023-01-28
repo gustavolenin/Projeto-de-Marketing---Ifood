@@ -1,7 +1,5 @@
 # iFood CRM Data Analyst Case
 
-## Projeto em Desenvolvimento
-
 ![image](https://user-images.githubusercontent.com/69591172/198363732-c29034f5-65e0-4475-8030-15f20e361559.png)
 
 Este projeto consiste na resolução do iFood CRM Data Analyst Case. Todas as informações detalhadas sobre o caso estão disponíveis nos **Requirementos de Projeto (Project Requirements)**, para acessá-los [clique aqui](https://github.com/gustavolenin/Projeto-de-Marketing---Ifood/blob/main/project%20requirements/iFood%20Data%20Analyst%20Case.pdf). Em resumo, utilizando o conjunto de dados de amostra, o qual simula informações em relação ao cliente e suas interações com a campanha piloto do iFood. O desafio é compreender os dados, encontrar oportunidades e insights de negócios, visando propor ações baseada em dados com o objetivo de otimizar os resultados da campanha e gerar valor para a empresa.
